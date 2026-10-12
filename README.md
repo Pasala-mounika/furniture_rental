@@ -1,1 +1,2 @@
-# furniture_rental
+# Furniturerental
+LINK: https://furniturerental.netlify.app/
